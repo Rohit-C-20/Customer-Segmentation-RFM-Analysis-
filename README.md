@@ -1,4 +1,4 @@
-# Task 15 - Customer Segmentation (RFM Analysis)
+# Customer Segmentation (RFM Analysis)
 
 ## Dataset Used
 Online Retail Dataset
@@ -17,6 +17,6 @@ Perform RFM (Recency, Frequency, Monetary) analysis to segment customers based o
 - Exported segmentation results to CSV
 
 ## Deliverables
-- task15_rfm.ipynb
+- rfm.ipynb
 - rfm_segments.csv
 - segment_actions.txt
